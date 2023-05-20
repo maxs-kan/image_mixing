@@ -7,7 +7,7 @@ Based on [Stable unCLIP](https://github.com/Stability-AI/stablediffusion/blob/ma
 * python >= 3.8
 * CUDA >= 11.7
 
-## Quich start
+## Quick start
 
 bash ./run.sh path_to_base_img path_to_style_img
 
